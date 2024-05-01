@@ -1,4 +1,4 @@
-# CrewAI Hierarchical Tutorial
+# CrewAI Hierarchical Example
 
 ## Overview
 This repository hosts ab example using CrewAI, showcasing advanced AI-powered automation through hierarchical, asynchronous tasks with callbacks and predefined expected outputs.
